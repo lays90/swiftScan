@@ -119,7 +119,7 @@ open class LBXScanViewController: UIViewController {
             view.addSubview(qRScanView!)
             delegate?.drawwed()
         }
-        qRScanView?.deviceStartReadying(readyStr: readyString)
+//        qRScanView?.deviceStartReadying(readyStr: readyString)
     }
    
 
